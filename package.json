@@ -1,0 +1,21 @@
+{
+  "name": "mileage",
+  "version": "1.0.0",
+  "description": "Calculate mileage based on time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubil-ismail/mileage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubil-ismail/mileage/issues"
+  },
+  "homepage": "https://github.com/kubil-ismail/mileage#readme"
+}
