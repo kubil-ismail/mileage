@@ -2,17 +2,17 @@
   "name": "mileage",
   "version": "1.0.0",
   "description": "Calculate mileage based on time",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": ""
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kubil-ismail/mileage.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bilkis Ismail",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kubil-ismail/mileage/issues"
